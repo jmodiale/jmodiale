@@ -7,13 +7,10 @@ Check out my [Online CV](https://github.com/jmodiale/CV)
 
 Here are some things about me:
 
-- 🔭 I’m currently working on:
-  - A gesture based paint app
-
-- 🌱 Whilst consolidtaing my learning on:
+- 🔭 I’m currently consolidating my learning on:
   - React
   - Data Structures and Algorithms
-
+  
 - 💬 Ask me about:
   - Any of my projects ⬇️⬇️
 
