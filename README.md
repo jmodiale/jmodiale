@@ -11,6 +11,7 @@ Here are some things about me:
 
 - 🔭 I’m currently consolidating my learning on:
   - React
+  - Web Accessibility
   - Data Structures and Algorithms
   
 - 💬 Ask me about:
